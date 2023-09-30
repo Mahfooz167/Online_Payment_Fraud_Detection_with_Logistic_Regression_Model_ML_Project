@@ -22,7 +22,7 @@ Performance Evaluation: We've thoroughly evaluated the model's performance, and 
 
 As we navigate the intricacies of online payment fraud, we invite you to explore this project, learn from its implementation, and contribute to its ongoing improvement. Together, we can make online transactions safer and more secure for everyone.
 
-##Project Goals
+**Project Goals**
 
 The primary objective of the Online Payment Fraud Detection with Logistic Regression Model project is to create a robust and effective solution for identifying fraudulent transactions in online payment systems. Our project aims to achieve the following goals:
 
@@ -49,7 +49,8 @@ Ethical Considerations: Address ethical considerations related to privacy and da
 By pursuing these project goals, we aim to empower online businesses with an effective tool that safeguards their transactions, protects their customers, and contributes to the broader efforts of making online payment systems more secure and trustworthy.
 
 
-##Methodology
+*Methodology*
+
 Our methodology for Online Payment Fraud Detection with Logistic Regression Model consists of several key steps designed to develop an effective and adaptable fraud detection system:
 
 1. Data Collection and Preprocessing
@@ -61,7 +62,8 @@ Feature Engineering: Create relevant features or transformations that may improv
 
 2. Data Splitting
 Train-Validation-Test Split: Divide the preprocessed dataset into three subsets: a training set, a validation set, and a test set. This split allows for model training, hyperparameter tuning, and evaluation on separate datasets.
-3. Logistic Regression Model Development
+
+4. Logistic Regression Model Development
 Model Selection: Choose the Logistic Regression algorithm as the base model for fraud detection due to its simplicity and interpretability.
 
 Training: Train the Logistic Regression Model on the training dataset, allowing it to learn patterns and relationships within the data.
@@ -94,7 +96,7 @@ Education: Share knowledge and best practices related to online payment fraud de
 By following this methodology, we aim to develop a reliable and adaptable fraud detection system that can be seamlessly integrated into online payment platforms, ultimately enhancing the security and trustworthiness of digital transactions.
 
 
-##Conclusion
+**Conclusion**
 
 In the realm of online payment systems, security is paramount. The Online Payment Fraud Detection with Logistic Regression Model project represents our commitment to addressing the ever-growing challenge of fraud in digital transactions. As we conclude this journey, it's essential to reflect on the significance of our efforts and the outcomes achieved.
 
@@ -115,6 +117,4 @@ We recognize the value of a collaborative approach. This project thrives on the 
 As we look ahead, we remain committed to the ongoing improvement of our system. The fight against online payment fraud is a continuous battle, and our dedication to innovation and excellence will persist. We invite you to join us in this journey—contribute, learn, and together, let's make digital transactions safer and more secure for all.
 
 Thank you for being a part of the Online Payment Fraud Detection with Logistic Regression Model project. We look forward to a future where online payments are not only convenient but also synonymous with trust and security.
-
-
 For questions or collaborations, please contact [](ansarimahfooz167@gmail.com).
