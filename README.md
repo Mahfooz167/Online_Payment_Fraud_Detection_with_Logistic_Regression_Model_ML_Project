@@ -1,5 +1,5 @@
 # Online_Payment_Fraud_Detection_with_Logistic_Regression_Model_ML_Project
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.legalserviceindia.com%2Flegal%2Farticle-13238-a-legal-analysis-on-online-fraud-using-fake-identity.html&psig=AOvVaw08ThSqVKHwJGlWS0H-NFMx&ust=1696137769310000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPit7tvL0YEDFQAAAAAdAAAAABAE)
+![](https://miro.medium.com/v2/resize:fit:601/1*xSqK9iS7nZAaB-Sdwiwjow.png)
 
 ## Introduction
 
