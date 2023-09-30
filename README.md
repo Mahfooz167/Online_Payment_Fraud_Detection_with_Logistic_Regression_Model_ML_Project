@@ -1,5 +1,8 @@
 # Online_Payment_Fraud_Detection_with_Logistic_Regression_Model_ML_Project
+
 ![](https://miro.medium.com/v2/resize:fit:601/1*xSqK9iS7nZAaB-Sdwiwjow.png)
+![](https://us.123rf.com/450wm/pavelvinnik/pavelvinnik2004/pavelvinnik200400067/144781567-cyber-attack-crime-cryptocurrency-stealing-riskiness-mining-virus-hacker-burglar-avatar-on-computer.jpg?ver=6)
+![](https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2022/02/Online-Payments-Fraud-Detection-with-Machine-Learning.png?fit=1920%2C1080&ssl=1)
 
 ## Introduction
 
@@ -49,7 +52,7 @@ Ethical Considerations: Address ethical considerations related to privacy and da
 By pursuing these project goals, we aim to empower online businesses with an effective tool that safeguards their transactions, protects their customers, and contributes to the broader efforts of making online payment systems more secure and trustworthy.
 
 
-*Methodology*
+**Methodology**
 
 Our methodology for Online Payment Fraud Detection with Logistic Regression Model consists of several key steps designed to develop an effective and adaptable fraud detection system:
 
