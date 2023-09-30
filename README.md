@@ -1,7 +1,7 @@
 # Online_Payment_Fraud_Detection_with_Logistic_Regression_Model_ML_Project
 
-![](https://us.123rf.com/450wm/pavelvinnik/pavelvinnik2004/pavelvinnik200400067/144781567-cyber-attack-crime-cryptocurrency-stealing-riskiness-mining-virus-hacker-burglar-avatar-on-computer.jpg?ver=6) ![](https://miro.medium.com/v2/resize:fit:601/1*xSqK9iS7nZAaB-Sdwiwjow.png)
-![](https://i0.wp.com/thecleverprogrammer.com/wp-content/uploads/2022/02/Online-Payments-Fraud-Detection-with-Machine-Learning.png?fit=1920%2C1080&ssl=1)
+![](https://us.123rf.com/450wm/pavelvinnik/pavelvinnik2004/pavelvinnik200400067/144781567-cyber-attack-crime-cryptocurrency-stealing-riskiness-mining-virus-hacker-burglar-avatar-on-computer.jpg?ver=6) 
+![](https://chargebacks911.com/wp-content/uploads/2023/02/Fraud-Detection-blog.jpg)
 
 ## Introduction
 
